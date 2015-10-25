@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="texto" type="id" />
+    <item name="btnState" type="id" />
+    <item name="OK" type="id" />
+    <item name="txtTexto" type="id" />
+</resources>

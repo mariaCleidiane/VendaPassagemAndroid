@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Passagem_Aerea</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+
+
+    <string-array name="estados">
+        <item>Escolha o Estado em que se encontra:</item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+        <item>Alagoas</item>
+        <item>Minas Gerais</item>
+        <item>Rio Grande do Sul</item>
+        <item>Goiás</item>
+        <item>Bahia</item>
+        <item>Rondônia</item>
+
+    </string-array>
+
+
+
+    <string-array name="paises">
+        <item>Escolha o País em que deseja ir:</item>
+        <item>Espanha</item>
+        <item>África do Sul</item>
+        <item>Alemanha</item>
+        <item>Argentina</item>
+        <item>Austrália</item>
+        <item>Canadá</item>
+        <item>Inglaterra</item>
+        <item>Japão</item>
+    </string-array>
+
+
+
+
+
+    <string name="title_activity_display_message">Voos Disponíveis</string>
+    <string name="title_activity_passagem">Passagem</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+
+
+</resources>
